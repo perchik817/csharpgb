@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\bin\Debug\task1.exe.config
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\bin\Debug\task1.exe
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\bin\Debug\task1.pdb
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\obj\Debug\task1.exe
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\task1\obj\Debug\task1.pdb
