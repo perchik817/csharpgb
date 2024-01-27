@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\bin\Debug\net8.0\task1.exe
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\bin\Debug\net8.0\task1.deps.json
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\bin\Debug\net8.0\task1.dll
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\bin\Debug\net8.0\task1.pdb
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.sourcelink.json
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.dll
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\refint\task1.dll
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.pdb
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\lesson1\task1\obj\Debug\net8.0\ref\task1.dll

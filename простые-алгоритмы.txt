@@ -1,0 +1,113 @@
+Задача 1: Проверка на кратность 7 и 23
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Введите число: ");
+        int number = int.Parse(Console.ReadLine());
+
+        if (IsMultipleOf7And23(number))
+        {
+            Console.WriteLine($"{number} кратно 7 и 23");
+        }
+        else
+        {
+            Console.WriteLine($"{number} не кратно 7 и 23");
+        }
+    }
+
+    static bool IsMultipleOf7And23(int number)
+    {
+        return number % 7 == 0 && number % 23 == 0;
+    }
+}
+
+
+Задача 2: Номер координатной четверти
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Введите координаты X и Y через пробел: ");
+        string[] coordinates = Console.ReadLine().Split(' ');
+
+        int x = int.Parse(coordinates[0]);
+        int y = int.Parse(coordinates[1]);
+
+        int quadrant = GetQuadrant(x, y);
+
+        Console.WriteLine($"Точка находится в {quadrant}-й координатной четверти");
+    }
+
+    static int GetQuadrant(int x, int y)
+    {
+        if (x > 0 && y > 0)
+            return 1;
+        else if (x < 0 && y > 0)
+            return 2;
+        else if (x < 0 && y < 0)
+            return 3;
+        else
+            return 4;
+    }
+}
+
+
+Задача 3: Наибольшая цифра числа
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Введите двузначное число: ");
+        int number = int.Parse(Console.ReadLine());
+
+        int maxDigit = GetMaxDigit(number);
+
+        Console.WriteLine($"Наибольшая цифра в числе {number} - {maxDigit}");
+    }
+
+    static int GetMaxDigit(int number)
+    {
+        int digit1 = number % 10;
+        int digit2 = number / 10;
+
+        return Math.Max(digit1, digit2);
+    }
+}
+
+
+Задача 4: Цифры числа через запятую
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Введите натуральное число N: ");
+        int n = int.Parse(Console.ReadLine());
+
+        PrintDigitsSeparatedByComma(n);
+    }
+
+    static void PrintDigitsSeparatedByComma(int number)
+    {
+        string digits = "";
+
+        while (number > 0)
+        {
+            int digit = number % 10;
+            digits = digit + "," + digits;
+            number /= 10;
+        }
+
+        digits = digits.TrimEnd(',');
+
+        Console.WriteLine($"Цифры числа через запятую: {digits}");
+    }
+}
