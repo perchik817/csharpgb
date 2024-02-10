@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson4", "lesson4.csproj", "{C0ADBFE4-3335-471F-B757-E3CBBB804B56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funcrions", "funcrions.csproj", "{1DAA546B-C076-4401-936D-4819359C7EFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0ADBFE4-3335-471F-B757-E3CBBB804B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0ADBFE4-3335-471F-B757-E3CBBB804B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0ADBFE4-3335-471F-B757-E3CBBB804B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0ADBFE4-3335-471F-B757-E3CBBB804B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAA546B-C076-4401-936D-4819359C7EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAA546B-C076-4401-936D-4819359C7EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAA546B-C076-4401-936D-4819359C7EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAA546B-C076-4401-936D-4819359C7EFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A3C5C125-BF12-47DD-B354-2953AE80BE94}
+		SolutionGuid = {556AA4DF-C388-4293-91CB-86DECD84C415}
 	EndGlobalSection
 EndGlobal

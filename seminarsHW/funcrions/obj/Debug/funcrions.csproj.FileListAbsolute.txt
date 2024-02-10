@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\funcrions\bin\Debug\funcrions.exe.config
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\funcrions\bin\Debug\funcrions.exe
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\funcrions\bin\Debug\funcrions.pdb
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\funcrions\obj\Debug\funcrions.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\funcrions\obj\Debug\funcrions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\funcrions\obj\Debug\funcrions.exe
+C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\funcrions\obj\Debug\funcrions.pdb
