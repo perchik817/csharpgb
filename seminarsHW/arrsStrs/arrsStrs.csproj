@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D28029EF-4FA0-4C55-98EA-A10B4B505480}</ProjectGuid>
+    <ProjectGuid>{6063B0B7-DF5B-4D26-B72E-F17015821E85}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lesson6</RootNamespace>
-    <AssemblyName>lesson6</AssemblyName>
+    <RootNamespace>arrsStrs</RootNamespace>
+    <AssemblyName>arrsStrs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminars\lesson6\bin\Debug\lesson6.exe.config
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminars\lesson6\bin\Debug\lesson6.exe
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminars\lesson6\bin\Debug\lesson6.pdb
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminars\lesson6\obj\Debug\lesson6.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminars\lesson6\obj\Debug\lesson6.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminars\lesson6\obj\Debug\lesson6.exe
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminars\lesson6\obj\Debug\lesson6.pdb
