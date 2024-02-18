@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\arrsStrs\bin\Debug\arrsStrs.exe.config
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\arrsStrs\bin\Debug\arrsStrs.exe
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\arrsStrs\bin\Debug\arrsStrs.pdb
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\arrsStrs\obj\Debug\arrsStrs.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\arrsStrs\obj\Debug\arrsStrs.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\arrsStrs\obj\Debug\arrsStrs.exe
-C:\Users\User\Desktop\Kyz Saikal\My works\Geekbrains\знакомство с языками программирования\seminarsHW\arrsStrs\obj\Debug\arrsStrs.pdb
